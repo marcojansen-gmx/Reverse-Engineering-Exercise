@@ -1,5 +1,4 @@
-# Unit 14 Sequelize Homework: Reverse Engineering Code
-
+# Reverse Engineering Code
 Reverse engineer the starter code provided and create a tutorial for the code.
 
 In the `Develop` folder, there is starter code for a project. Begin inspecting the code to get an understanding of each file's responsibility. Then, in a Google Doc, write a tutorial explaining *every* file and its purpose. If one file is dependant on other files, be sure to let the user know.
@@ -27,8 +26,6 @@ GIVEN a Node.js application using Sequelize and Passport
 WHEN I follow the walkthrough
 THEN I understand the codebase
 ```
-- - -
-
 ## Submission on BCS
 
 You are required to submit the following:
@@ -37,5 +34,15 @@ You are required to submit the following:
 
 _Note: Don't forget to change the sharing settings on your Google Doc._
 
-- - -
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+# github
+https://github.com/marcojansen-gmx/Reverse-Enginnering-Exercise
+
+
+# GoogleDrive
+https://drive.google.com/file/d/1OxVLwXrXlT23XJqrvBdDJr0LioQlSIjd/view?usp=sharing
+
+# instructions PDF
+https://github.com/marcojansen-gmx/Reverse-Enginnering-Exercise/blob/main/ReverseEngineering.pdf
+
+
+
